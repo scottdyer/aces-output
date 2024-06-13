@@ -1,6 +1,6 @@
 
 // <ACEStransformID>urn:ampas:aces:transformId:v2.0:InvOutput.Academy.Rec2020_ST2084_Rec709limited_100nitsim.a2.v1</ACEStransformID>
-// <ACESuserName>Inverse Rec.2020 (Rec.709 Limited, 100 nit sim)</ACESuserName>
+// <ACESuserName>Inverse Rec.2020 ST2084 (Rec.709 Limited, 100 nit sim)</ACESuserName>
 
 
 

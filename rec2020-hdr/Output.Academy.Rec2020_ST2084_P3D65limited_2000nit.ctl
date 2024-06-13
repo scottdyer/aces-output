@@ -1,6 +1,6 @@
 
 // <ACEStransformID>urn:ampas:aces:transformId:v2.0:Output.Academy.Rec2020_ST2084_P3D65limited_2000nit.a2.v1</ACEStransformID>
-// <ACESuserName>Rec.2020 (P3-D65 Limited, 2000 nit)</ACESuserName>
+// <ACESuserName>Rec.2020 ST2084 (P3-D65 Limited, 2000 nit)</ACESuserName>
 
 
 

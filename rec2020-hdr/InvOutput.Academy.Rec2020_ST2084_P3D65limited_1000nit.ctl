@@ -1,6 +1,6 @@
 
-// <ACEStransformID>urn:ampas:aces:transformId:v2.0:InvOutput.Academy.Rec2020_P3D65limited_1000nit.a2.v1</ACEStransformID>
-// <ACESuserName>Inverse Rec.2020 1000 nit (P3-D65 Limited)</ACESuserName>
+// <ACEStransformID>urn:ampas:aces:transformId:v2.0:InvOutput.Academy.Rec2020_ST2084_P3D65limited_1000nit.a2.v1</ACEStransformID>
+// <ACESuserName>Inverse Rec.2020 ST2084 (P3-D65 Limited, 1000 nit)</ACESuserName>
 
 
 
