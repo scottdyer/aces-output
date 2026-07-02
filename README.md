@@ -28,16 +28,15 @@ technical artifacts.
 All contributors must have a signed Contributor License Agreement (CLA) on file
 to ensure that the project can freely use your contributions. 
 
-See [CONTRIBUTING.md](https://github.com/aces-aswf/.github/blob/main/CONTRIBUTING.md) for more details.
+See [CONTRIBUTING](https://github.com/aces-aswf/.github/blob/main/CONTRIBUTING.md) for more details.
 
 ## Governance
 
-This repository is a submodule of the ACES project, which is governed by the
+This repository is a submodule of the ACES project, which is itslef governed by the
 Academy Software Foundation.
 
-For details about how the project operates, refer to the
-[GOVERNANCE.md](https://github.com/aces-aswf/.github/blob/main/GOVERNANCE.md) file
-found in in the top-level ACES repository.
+For details about how the ACES project operates, please see
+[GOVERNANCE](https://github.com/aces-aswf/.github/blob/main/GOVERNANCE.md).
 
 ## Reporting Issues
 
@@ -45,7 +44,7 @@ To report a problem with Output Transforms, please open an
 [issue](https://github.com/aces-aswf/aces-output/issues).
 
 If the issue is senstive in nature or a security related issue, please do not
-report in the issue tracker. Instead refer to [SECURITY.md](https://github.com/aces-aswf/.github/blob/main/SECURITY.md) for
+report in the issue tracker. Instead refer to [SECURITY](https://github.com/aces-aswf/.github/blob/main/SECURITY.md) for
 more information about the project security policy.
 
 ## License
